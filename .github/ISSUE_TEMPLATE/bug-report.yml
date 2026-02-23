@@ -33,20 +33,20 @@ body:
       label: Description
       description: Please provide detailed information about the bug
       value: |
-                    **Bug detail description:**
-                    [Describe the bug in detail.]
+                    Bug detail description:
+                    Describe the bug in detail.
                     
-                    **Preconditions:**
-                    [Specific configuration or resource setup needed to reproduce]
+                    Preconditions:
+                    Specific configuration or resource setup needed to reproduce
                     
-                    **How to reproduce:**
-                    [Describe the simplest way to reproduce the scenario.]
+                    How to reproduce:
+                    Describe the simplest way to reproduce the scenario.
                     
-                    **Result of the issue:**
-                    [Describe the issue results.]
+                    Result of the issue:
+                    Describe the issue results.
                     
-                    **Expected result:**
-                    [Describe what you want to achieve.]
+                    Expected result:
+                    Describe what you want to achieve.
 
     validations:
       required: true
